@@ -1,7 +1,7 @@
 # Teknoday
 
 ### Screenshot
-![Gambar Halaman Utama](https://raw.githubusercontent.com/suryamsj/template-teknoday/main/screenshot/ss1.jpeg)
+![Gambar Halaman Utama](https://raw.githubusercontent.com/suryamsj/template-teknoday/main/screenshot/ss_1.jpeg)
 ![Gambar Halaman Produk](https://raw.githubusercontent.com/suryamsj/template-teknoday/main/screenshot/ss2.jpeg)
 
 ### Tentang
